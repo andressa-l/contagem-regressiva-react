@@ -1,0 +1,38 @@
+.App {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+    background-size: cover;
+    animation: animatedBg 10s linear infinite;
+}
+
+@keyframes 
+animatedBg {
+    100% {
+        filter: hue-rotate(360deg);
+    }
+}
+
+.container {
+    min-width: 50%;
+    min-height: 300px;
+    background-color: rgba(205, 223, 223, 0.808);
+    opacity: .8;
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 1rem;
+    animation: none;
+}
+
+.contagem-regressiva {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 20px;
+    text-align: center;
+    padding-top: 2rem;
+}

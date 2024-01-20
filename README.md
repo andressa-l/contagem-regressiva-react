@@ -23,7 +23,7 @@ A proposta para o desenvolvimento deste projeto foi a construção de um contado
 Os usuários devem ser capazes de:
 
 - Ver o layout ideal dependendo do tamanho da tela do dispositivo
-- Ver a contagem regressiva até o final do ano de 2023
+- Ver a contagem regressiva até o final do ano de 2024
 
 ### Screenshot
 
